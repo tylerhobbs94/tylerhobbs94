@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tylerhobbs94
+- 👋 Hi, I’m @tylerhobbs94 or you can just call me Tyler.
 - 👀 I’m interested in a junior software developer role, I prefer using JavaScript, React but I am practing everyday to learn more
 - 🌱 I’m currently learning more about Javascript, trying to get better everyday.
 - 💞️ I’m looking to collaborate on small projects with a lead developer to help learn more.  
